@@ -9,7 +9,7 @@ And PU Bagging learning is performed by `PU.sh`. The file is a submit script in 
 
 After the training for the first PU Bagging model, transfer learning will be performed. The process can be finished by `transfer_pu.sh`.  
 
-
+When you get the ideal model, you can use `Test.pbs` to predict the possibility of being synthesis.  
 
 
 
