@@ -42,6 +42,6 @@ Once the model is trained, you can predict the synthesizability probability usin
 `bash Test.pbs`
 
 ## Notes
-PU.sh, transfer_pu.sh, and Test.pbs are PBS job submission scripts. If you are using other job scheduling systems (e.g., Slurm), these scripts should be modified accordingly.
+`PU.sh`, `transfer_pu.sh`, and `Test.pbs` are PBS job submission scripts. If you are using other job scheduling systems (e.g., Slurm), these scripts should be modified accordingly.
 
 
